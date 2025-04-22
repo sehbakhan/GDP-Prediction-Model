@@ -10,6 +10,8 @@
 2. **Exploratory Data Analysis (EDA)**
     - **Analyze relationships between GDP and other indicators.**
     - **Visualize key insights using scatter plots and correlation matrices to understand feature interactions and importance.**
+    ![newplot](https://github.com/user-attachments/assets/6f587f42-3ad2-434e-b1b8-a68dd1a9f2c9)
+
   
       
 3. **Model Selection**
@@ -25,4 +27,4 @@
       
 5. **Interpret Model Results**
     - **Analyze feature importance to identify the socioeconomic indicators with the most significant impact on GDP.**
-- **Present insights from the model, such as the effect of unemployment rate or access to electricity on GDP.**
+    - **Present insights from the model, such as the effect of unemployment rate or access to electricity on GDP.**
