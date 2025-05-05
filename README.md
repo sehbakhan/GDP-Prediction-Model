@@ -28,3 +28,7 @@
 5. **Interpret Model Results**
     - **Analyze feature importance to identify the socioeconomic indicators with the most significant impact on GDP.**
     - **Present insights from the model, such as the effect of unemployment rate or access to electricity on GDP.**
+  
+
+6. **Deployment**
+- **Consider using Streamlit or Flask for model deployment, providing an interactive interface where users can input country data to get GDP predictions.**
