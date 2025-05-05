@@ -31,4 +31,4 @@
   
 
 6. **Deployment**
-- **Consider using Streamlit or Flask for model deployment, providing an interactive interface where users can input country data to get GDP predictions.**
+    - **Consider using Streamlit or Flask for model deployment, providing an interactive interface where users can input country data to get GDP predictions.**
