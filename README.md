@@ -1,4 +1,4 @@
-# World-Bank-Data-Analysis
+# GDP Prediction
 
 1. **Data Preprocessing**
     - **Handle missing values, if any, by imputation or removal.**
